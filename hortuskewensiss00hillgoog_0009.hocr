@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hortuskewensiss00hillgoog/hortuskewensiss00hillgoog_0009.png"; bbox 0 0 3417 5650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 591 4964 1417 5174">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 591 4964 1417 5174">
+     <span class='ocr_line' id='line_1_1' title="bbox 795 4964 1262 5057; baseline 0.013 -30"><span class='ocrx_word' id='word_1_1' title='bbox 795 5050 800 5057; x_wconf 82' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 856 4965 1009 5031; x_wconf 69' lang='lat' dir='ltr'>Direaion</span> <span class='ocrx_word' id='word_1_3' title='bbox 1030 4981 1059 5031; x_wconf 87' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_4' title='bbox 1081 4970 1129 5033; x_wconf 82' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_5' title='bbox 1148 4964 1262 5033; x_wconf 81' lang='lat' dir='ltr'>Binder.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 591 5068 1417 5174; baseline 0.005 -42"><span class='ocrx_word' id='word_1_6' title='bbox 591 5099 596 5107; x_wconf 95' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 663 5068 752 5139; x_wconf 72' lang='lat' dir='ltr'>Plaoe</span> <span class='ocrx_word' id='word_1_8' title='bbox 772 5075 831 5153; x_wconf 59' lang='lat' dir='ltr'>PL</span> <span class='ocrx_word' id='word_1_9' title='bbox 852 5082 880 5147; x_wconf 63' lang='grc' dir='ltr'>ἀ</span> <span class='ocrx_word' id='word_1_10' title='bbox 901 5078 967 5143; x_wconf 70' lang='grc' dir='ltr'>’Μ</span> <span class='ocrx_word' id='word_1_11' title='bbox 986 5076 1059 5144; x_wconf 74' lang='lat' dir='ltr'>aster</span> <span class='ocrx_word' id='word_1_12' title='bbox 1078 5095 1154 5161; x_wconf 76' lang='lat' dir='ltr'>page</span> <span class='ocrx_word' id='word_1_13' title='bbox 1177 5095 1245 5174; x_wconf 15' lang='lat'>1¹72,</span> <span class='ocrx_word' id='word_1_14' title='bbox 1267 5073 1351 5138; x_wconf 75' lang='lat' dir='ltr'>shcet</span> <span class='ocrx_word' id='word_1_15' title='bbox 1370 5072 1417 5136; x_wconf 76' lang='lat' dir='ltr'>M.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1106 5431 1393 5452">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1106 5431 1393 5452">
+     <span class='ocr_line' id='line_1_3' title="bbox 1106 5431 1393 5452; baseline -0.007 -3"><span class='ocrx_word' id='word_1_16' title='bbox 1106 5431 1266 5452; x_wconf 62' lang='lat' dir='ltr'>[nanu—n.-</span> <span class='ocrx_word' id='word_1_17' title='bbox 1304 5442 1311 5449; x_wconf 86' lang='lat'>.</span> <span class='ocrx_word' id='word_1_18' title='bbox 1353 5440 1393 5447; x_wconf 84' lang='grc'>.,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1714 5650">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1714 5650">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1714 5650; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1714 5650; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

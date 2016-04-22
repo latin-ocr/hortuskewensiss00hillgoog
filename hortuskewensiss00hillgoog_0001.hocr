@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hortuskewensiss00hillgoog/hortuskewensiss00hillgoog_0001.png"; bbox 0 0 3417 5650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 638 1543 824 1606">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 638 1543 824 1606">
+     <span class='ocr_line' id='line_1_1' title="bbox 638 1543 824 1606; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 638 1543 824 1606; x_wconf 86' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 484 1675 978 2018">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 484 1675 978 2018">
+     <span class='ocr_line' id='line_1_2' title="bbox 681 1675 780 1714; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 681 1675 780 1714; x_wconf 69' lang='grc' dir='ltr'>οετκε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 484 1793 978 1856; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 484 1793 674 1856; x_wconf 86' lang='lat' dir='ltr'>ARNOLD</span> <span class='ocrx_word' id='word_1_4' title='bbox 693 1793 978 1856; x_wconf 84' lang='lat' dir='ltr'><strong>ARBORETUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 552 1935 903 2018; baseline 0 -20"><span class='ocrx_word' id='word_1_5' title='bbox 552 1935 753 2018; x_wconf 82' lang='lat' dir='ltr'>JAMAICA</span> <span class='ocrx_word' id='word_1_6' title='bbox 770 1935 903 1998; x_wconf 85' lang='lat' dir='ltr'>PLAIN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 3566 979 3631">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 3566 979 3631">
+     <span class='ocr_line' id='line_1_5' title="bbox 482 3566 979 3631; baseline 0.004 -2"><span class='ocrx_word' id='word_1_7' title='bbox 482 3566 691 3630; x_wconf 85' lang='lat' dir='ltr'><strong>HARVARD</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 709 3568 979 3631; x_wconf 83' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 129 5176 133 5219">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 129 5176 133 5219">
+     <span class='ocr_line' id='line_1_6' title="bbox 129 5176 133 5219; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 129 5176 133 5219; x_wconf 74' lang='lat' dir='ltr'>l</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1714 5650">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1714 5650">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1714 5650; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1714 5650; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

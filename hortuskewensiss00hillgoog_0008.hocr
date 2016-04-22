@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hortuskewensiss00hillgoog/hortuskewensiss00hillgoog_0008.png"; bbox 0 0 3417 5650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 387 143 1037 615">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 387 143 1037 615">
+     <span class='ocr_line' id='line_1_1' title="bbox 488 143 1037 301; baseline 0.024 -13"><span class='ocrx_word' id='word_1_1' title='bbox 488 143 737 288; x_wconf 54' lang='lat' dir='ltr'>A*</span> <span class='ocrx_word' id='word_1_2' title='bbox 921 196 1037 301; x_wconf 42' lang='lat' dir='ltr'>as</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 387 246 1005 615; baseline 0.04 -58"><span class='ocrx_word' id='word_1_3' title='bbox 387 246 1005 615; x_wconf 46' lang='lat' dir='ltr'>stssszffb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 293 2186 1156 2382">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 293 2186 1156 2382">
+     <span class='ocr_line' id='line_1_3' title="bbox 293 2186 1156 2382; baseline 0.002 -78"><span class='ocrx_word' id='word_1_4' title='bbox 293 2186 1156 2382; x_wconf 16' lang='lat' dir='ltr'>HORTxUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 161 2701 1222 2834">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 76 2602 1222 2841">
+     <span class='ocr_line' id='line_1_4' title="bbox 161 2701 1222 2834; baseline -0.004 4.629"><span class='ocrx_word' id='word_1_5' title='bbox 161 2701 1222 2834; x_wconf 71' lang='lat' dir='ltr'>KEWENSIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1714 5650">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1714 5650">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1714 5650; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1714 5650; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

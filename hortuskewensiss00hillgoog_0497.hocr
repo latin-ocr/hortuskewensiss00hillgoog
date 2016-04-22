@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hortuskewensiss00hillgoog/hortuskewensiss00hillgoog_0497.png"; bbox 0 0 3417 5650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1087 128 3175 4434">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1087 128 3175 4434">
+     <span class='ocr_line' id='line_1_1' title="bbox 1087 128 3175 4434"><span class='ocrx_word' id='word_1_1' title='bbox 1087 128 3175 4434; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1314 4466 2178 4568">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1314 4466 2178 4568">
+     <span class='ocr_line' id='line_1_2' title="bbox 1314 4466 2178 4568; baseline 0.009 -10"><span class='ocrx_word' id='word_1_2' title='bbox 1314 4466 1587 4564; x_wconf 72' lang='lat' dir='ltr'>Celae</span> <span class='ocrx_word' id='word_1_3' title='bbox 1600 4487 1810 4563; x_wconf 79' lang='lat' dir='ltr'><strong>trus</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1874 4482 2178 4568; x_wconf 67' lang='lat' dir='ltr'>ovata</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
